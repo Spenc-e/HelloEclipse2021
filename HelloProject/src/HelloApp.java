@@ -6,5 +6,4 @@ public class HelloApp {
 		System.out.print("Hello Mr.Walton!");
 		//Second
 	}
-
 }
